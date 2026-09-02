@@ -1,0 +1,1285 @@
+
+
+
+
+
+The Accessibility Code of Pakistan 2006
+
+
+
+
+
+
+
+
+
+Government of Pakistan
+Ministry of Social Welfare & Special Education
+Directorate General of Special Education, Islamabad.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Accessibility Code of Pakistan 2006
+Published 2007
+
+For and on behalf of Directorate General of Special Education
+Ministry of Social Welfare and Special Education
+Government of Pakistan
+Islamabad
+
+By
+Pakistan Environmental Planning and Architectural 
+Consultants (Pvt)Limited
+(PEPAC)
+Islamabad
+
+
+
+
+
+ii
+
+INTRODUCTION
+
+
+A considerable percentage of the total population suffers from some form of disability which limits their ability to maneuver around in their surroundings. Unless these people are made capable of moving around in, and using their environments, the dream to their full participation and equality cannot be realized. To achieve that goal, the National Policy for Persons with Disabilities was formulated and approved in 2002 at the culmination of the Asia and Pacific Decade of Disabled Persons 1993-2002, and one of its key areas of focus and special attention was to ensure safe and easy access of persons with disabilities in public places and buildings.
+
+It is in this context that the building bye-laws and codes have been formulated and enacted, making it mandatory up on owners, designers, builders and regulators of publicbuildingsandfacilitiesthatallnewconstructionmeantforpublicusebemadeinsuchawaythatitiswithoutphysicalbarriers,and that already existing buildings and facilities are modified to an achieve able extent.
+
+Whereas, these building bye-laws, known as The Accessibility Code establish minimum legal requirements and regulations for building enclosures and systems, its compliance in terms of space and material provisions can be achieved in scores of ways, hence ensuring complete freedom in the design and construction of buildings and facilities without compromising then needs of people with disabilities regarding accessibility in the built environment. To explain and illustrate the space and material codal requirements, a separate volume known as the Design Manual and Guidelines for Accessibility is published separately, and provides explanations, commentary, space standards and design guidelines  for compliance of the accessibility code in creating barrier free environment for the independence, convenience and safety of people with disabilities, the infirm and the elderly.
+
+These building bye-laws and codes are not intended to be absolute and final in their requirements and the drafting authority reserves the right to modify and augment its content with the passage of time. Moreover the formulation and enforcement of the accessibility code should in no way be construed to   either replace or substitute the normal building and planning control regulations or mechanism of the regulatory authorities. It is only intended to supplement the normal building and planning control functions of a civil society for inclusion and mainstreaming of people with disabilities.
+
+
+
+
+
+
+
+iii
+
+The preparation of this document reflects the consummation of extensive efforts of the Directorate General of Special Education and their consultants Pakistan Environmental Planning and architectural Consultants (Private) Limited, whose initial draft recommendations were first reviewed internally within the Department, and were then presented to the stakeholders for consultation in regional conferences held at the four provincial capitals, and in Muzaffarabad, AJ&K. The recommendations put forward during the course of these consultative conferences were consolidated and presented in a national Conference held in Islamabad in August 2006 for the purpose, followed by circulation of the final draft of the accessibility code to line: Ministries and the Provincial Governments. This document, in its present final form, represents reviews and suggestions obtained from all the stake holders through these proceedings.
+
+The Directorate General of Special Education deeply appreciates the efforts of its staff members in making this document possible, and also acknowledges the efforts put in by the team members from the consultants' side, and the members of the general public who contributed through their participation and exchange of ideas.
+
+Creation of barrier free physical environments where persons with disabilities have the same opportunities for access and use, that the persons without disabilities enjoy is an objective that is worthwhile to attain, and we at the Directorate General of Special Education are committed to realize that goal.
+
+
+
+
+
+
+MUHAMMAD ASHRAF MALIK
+Director Projects
+Directorate General of Special Education
+Ministry of Social Welfare and Special Education
+Government of Pakistan
+Islamabad
+
+
+
+
+iv
+
+
+
+The Accessibility Code of Pakistan
+
+Table of Contents							1
+
+Chapter 1	 GENERAL							3
+Section 1.1 	Short Titles, Extent and Commencement
+Section 1.2	Scope
+Section 1.3	Intent
+Section 1.4	Organization
+Section 1.5	Relationships to Other Laws
+
+Chapter 2 DEFINTTTONS							5
+Section 2.1	 General
+Section 2.2	 General Terminology
+Section 2.3 	Defined Terms
+
+Chapter 3 ADMINISTRATION AND ENFORCEMENT			12
+Section 3.1 	General
+Section 3.2 	Applications and Exemptions
+Section  3.3 	Compliance
+Section 3.4 	Complaints and Relief
+
+Chapter 4 SCOPING REQUIREMENTS					16
+Section 4.1 	General
+Section 4.2 	Scope
+Section 4.3 	Application
+
+Chapter 5 ACCESSJBILITY REQUIREMENTS FUR EXTERNAL		22
+	     ENVIRONMEWT
+Section 5.1 	General
+Section 5.2 	Design Requirements
+Section 5.3 	Public Transport Requirements
+
+Chapter 6 ACCESSIBILITY REQUIREMENTS FOR INTERNAL		30
+ENVIRONMENT
+Section 6.1 	General
+Section 6.2 	Design Requirement
+
+
+
+
+
+
+
+1
+
+
+Chapter 7 ACCESSIBLE BUILDING COMPONENTS, ELEMENTS 	34
+AND SERVICES
+Section 7. I General
+Section 7.2 Space Allowance
+Section 7.3 Toilet Facilities
+Section 7.4 Kitchen and Work Counters
+Section 7.5 Assembly Seating
+Section 7.6 Doors
+Section 7.7 Handrails and Grab Bars
+Section 7.8 Lifts
+Section 7.9 Switches and Controls
+
+Chapter 8 ACCESSIBLE MEANS OF EMERGENCY EGRESS		39
+Section 8.1 General
+Section 8.2 Applicability
+Section 8.3 Rescue Assistance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2
+
+Chapter - 1
+
+GENERAL
+
+Whereas it is expedient that to develop and empower persons with disabilities and to bring them into mainstream of the society through removal of physical barriers and through creation of an accessible physical environment meeting the needs of persons with disabilities, the infirm and the elderly, for their independence, convenience and safety in all public buildings and areas.
+
+And Whereas, in pursuance of the Government policy to expand services for persons with disabilities throughout the country and in accordance with provisions of the National Policy for Persons With Disabilities, the Government has decided to amend the bye-laws of the building regulatory agencies to ensure provision of the facilities aforementioned.
+
+Now therefore, the authority is pleased to make and promulgate the following regulations.
+
+Section 1 .I: Short Title, Extent and Commencement
+
+1.1.1 These regulations shall be known as "The Accessibility Code of Pakistan," hereinafter referred to as the 'accessibility code.'
+
+1.1.2 It extends to the whole of Pakistan.
+
+1.1.3 It shall come into force on such day as the authority may, by notification in the official Gazette appoint.
+
+
+
+
+
+
+
+
+
+3
+
+Section 1.2: Scope
+
+The provisions of the accessibility code shall apply to the construction, addition and alteration of all new as well as existing buildings, structures, facilities, premises and areas which are owned, occupied and managed by the Federal, Provincial and Local Governments; and privately owned public service buildings for which an application for approval of building plans, and issuance of permission for construction, addition or alteration by building contra1 and regulatory authorities is required and regulated. Detailed scoping requirements are given under Chapter 4.
+
+Section 1.3: Intent
+
+The purpose of this accessibility code is to establish the minimum requirements to safeguard the public health, safety and general welfare of people with disabilities; the infirm; and the elderly, through provision of design, constructional and material facilities to the built environment, and to provide safe means of egress during emergency situations.
+
+Section 1.4: Organization
+
+The regulatory authority and the agencies responsible for implementation, enforcement and monitoring of the application of provisions of the accessibility code, shall be as so designated and appointed by the Government and promulgated to the effect.
+
+Section 1.5: Relationship to Other Laws
+
+Except as otherwise provided in the accessibility code, the provisions specified in this document supplement the other building; and building related laws, bye-laws, codes and regulations, currently in force or to be enacted in future by the Federal, Provincial or Local Governments. And the latter shall not be construed to negate any provisions of the accessibility code in any way, and shall also not be construed to apply a lesser standard under any of the relevant regulations issued by regulatory agencies pursuant to the objectives of creation, construction, occupation and maintenance of a barrier free built environment. Moreover, the accessibility code does not invalidate or limit the remedies, rights and procedures of any of the Federal, Provincial or local laws that provide greater or equal protection for the rights of individuals with disabilities or individuals associated with them.
+
+
+
+
+
+4
+
+
+Chapter - 2
+
+DEFINITIONS
+
+Section 2.1: General
+
+2.1.1 	For the purpose of this document, the terms defined below shall have the 	meaning assigned, unless such meaning be inconsistent with or repugnant 	to 	the context of the subject matter in which such words or expressions 	occur.
+2.1.2	 Words, terms and expressions used in the singular include the plural, 	and vice versa. Words imparting the masculine gender include the feminine	gender as well.
+2.1.3 	The meaning of the terms not specifically defined hereinafter shall be as 	defined by the respective standards, or in case where no definitions exist 	in 	the respective standards either, shall be as defined by the collegiate 	dictionaries in the sense that the context implies.
+
+Section 2.2: General Terminology
+
+The following expressions when used in this document shall have the meanings as defined.
+
+Comply with 	meet one or more specifications of this document.
+
+I f, if... then	denotes a situation which applies only when the conditions 			described therein are present.
+
+May		denotes an option or alternative.
+
+Shall 		denotes a mandatory requirement.
+
+Should 	denotes an advisory specification or a recommendation.
+
+
+
+5
+
+Section 2.3: Defined Terms
+
+The following words and terms shall for the purpose of this document have the meaning as shown herein.
+  Access 	approach to, reach and use of, facilities and egress except in cases of emergency, without assistance and undue difficulties.
+
+Accessible	a site, building, facility or portion thereof that complies with this code, and that can readily be accessed by persons with disabilities and infirmities.
+
+Accessibility	means to make the built environment 	accessible.
+
+Accessible Route	a continuous route that connects all the 	accessible spaces and elements of a 	building or facility and is accessible to 	persons with disabilities.
+
+Addition	an expansion extension or increase in the gross floor area or height of a building or facility.
+
+ Alteration	a change, addition or modification in construction or occupancy.
+
+Area of Refuge	an area which has direct access to an exit 	and is designated for rescue assistance 	purposes.
+
+ Assembly Area	a room or space accommodating a group 	of persons for some specific purpose.
+
+Basement	a storey wholly or partially below ground 	level.
+
+Building		any structure or enclosure, and it appurtenances, used and intended for supporting or sheltering any use or occupancy.
+
+6
+Completion Certificate	a certificate issued in conjunction  with, 	or without the occupancy certificate by 	the regulatory authority, certifying that 	the permitted construction has been 	completed incompliance with approved 	drawings.
+
+Covered Area	the maximum horizontal area within the 	inside perimeter of the external walls of 	the space under consideration.
+
+Covered Facility	within the scoping requirements of the 	accessibility code.
+
+Cross Slope	the slope that is perpendicular to the 	direction of travel.
+
+Curb	a definable side edge to a pavement 	intended for traffic.
+
+Curb Ramp	a short ramp cutting through a curb, or 	built upto it.
+
+Disability	a condition, temporary or permanent, 	which limits a person's ability to move 	around in and use the built environment.
+
+Dwelling	a building or portion thereof that 	contains more than four dwelling unit 	used, intended or designed to be used, 	rented, leased, let or hired out to be 	occupied for residential purposes.
+
+Egress	an exit, or way out.
+
+Element	a structural or mechanical component of 	a building, facility, space or site.
+
+Elevator	a lift.
+
+
+
+
+7
+
+
+Existing	that already exist on ground, or for which a building permit or permission for construction, erection or alteration has been granted prior other enforcement of the accessibility code.
+
+Exit	a passage or a door to leave a building or portion thereof to an outside area or public thorough fare.
+
+Facility	all or any portion of buildings, structures, site improvements, elements and routes located on a site.
+
+Floor	a storey, or a horizontal portion thereof.
+
+Floor Area	the usable covered area of a building or po1tion thereof at any floor.
+
+Fire-protected	the assembly of materials designed and 	applied to the object to restrict the spread of 	fire for a designated period of time.
+
+Freight Elevator	a lift intended primarily for the 	transportation of goods.
+
+Ft.	foot, feet.
+
+Gross Floor Area	the total floor area within the outside 	perimeter of external walls of the building or 	portion thereof under consideration, and 	which may be determined as defined by the 	regulatory authority having jurisdiction.
+
+Ground Floor	the storey or storeys nearest to the ground 	level and used as the principal entry from 	ground level.
+
+Handrail	a horizontal or sloping rail intended to 	provide guidance and support at hand level.
+
+
+8
+
+
+Jn.	inch(es).
+
+Jurisdiction	the extent of, or territory under the 	administrative control of regulatory 	authority.
+
+Landing	platform or apart of the floor structure at the 	end of a ramp or flight of steps, or to give 	access to a lift.
+
+Lift	an appliance for transporting persons or 	goods between two or more levels by means 	of a guided car moving in a substantially 	vertical direction and travelling the same 	path in both upward and downward 	directions.
+
+Low-rise	a building or structure having two to four 	storeys.
+
+M	metre(s).
+
+Max.	max11num.
+
+Min.	minimum
+
+Mm	millimeter(s).
+
+Multi-storey	a building or structure having more than 	four storeys.
+
+Occupancy	the purpose for which a building or facility 	or a portion there of is used and occupied.
+
+Occupancy Certificate	a certificate issued by the regulatory 	authority stating that the building or facility 	has been completed in accordance with 	approved plans and is fit for occupation.
+
+Occupant Load	the maximum number of persons for which 	a building or a facility has been designed or 	built.
+
+
+9
+Public Agency	Includes a person or body of persons, or 	autonomous body appointed by or under 	the autho1ity of the Federal, Provincial or 	local government.
+
+Public Place 	Any building, premise or area to which the 	public have access.
+
+Premises 	a site, with its buildings and  appurtenances.
+
+Ramp	a sloped or inclined walking surface 	including intermediate landings.
+
+Reachable	within reach able limits of a wheel chair 	bound person.
+
+Regulatory Authority	a government agency that adopts or enforces 	regulations for the design or construction of 	buildings and facilities.
+
+Relevant Regulations	the provisions of any Federal, Provincial or 	local laws, or any law other than the 	accessibility code affecting the design, 	construction, maintenance, use or 	occupancy of buildings or facilities, 	currently in force or to been forced in future.
+
+Rescue Assistance	the operation or activity of providing 	assisted evacuation to people who, because  	of their disability are unable to use the stairs 	in cases of emergencies.
+
+Riser 	vertical component of a step between two 	treads or tread or landing above or below it.
+
+Running Slope 	the slope that is parallel to the direction of 	travel. 
+
+	Sft.	Square feet.
+Signage 	displayed pictorial, verbal, symbolic and 	tactile information.
+
+
+10
+
+Single-storey	a building or structure having only one 	storey above ground level.
+
+Site	a parcel of land bounded by a property  line 	or a designated public right of way, housing 	one or more buildings or facilities.
+
+Space	a definable area.
+
+Storey	the portion of a building included between 	the upper surface of a floor and the upper 	surface of a floor or roof above.
+
+Structure	the whole constructed unit of a building or 	facility.
+
+Tactile	a profiled or textured surface, that can be 	perceived using the sense of touch.
+
+Tread	horizontal component of a step.
+
+Uncoupled	an assembly in which the flushing cistern is 	not integrally joined with the water closet.
+
+Unisex	a facility intended for use by either sex with 	or without the assistance by people of the 	same or opposite sex.
+
+Use	the purpose for which a site or building, or a 	portion there of is authorized or permitted 	under relevant regulations.
+
+Usable	which can be used for the purpose the object 	is meant for.
+
+Winder	a tread of unequal width.
+
+
+
+
+
+
+
+11
+
+
+
+
+Chapter-3
+ADMINISTRATION AND ENFORCEMENT
+
+
+Section 3.1: General
+
+This chapter deals with pertinent requirements for the enforcement of the provisions of the accessibility code, as an integral part of the building and development control functions of the regulatory authorities for removal of physical barriers in the built environment to permit general use of buildings and facilities by persons with disabilities, acting independently, or with normal means of assistance,  resting on the belief that they have the same rights as any other individual, including the right to access and use the physical environment.
+
+
+Section 3.2: Applications and Exemptions
+
+The provision of the accessibility code shall apply, in relation to development of sites, areas, buildings, facilities and other aspects of built environment, under the following categories, in respect of which application for the approval of plans or commencement of any works is required in accordance with relevant regulations of the regulatory authorities.
+
+            3.2.1 3.2.1	Government Buildings:
+
+    i) All buildings; irrespective of their size, location or use, owned by any form or level of Government, shall be covered by the provisions of the accessibility code.
+    ii) All building so occupied by any form or level of Government establishment, shall be covered by the provisions of the accessibility code forth education of such occupation.
+
+
+
+12
+
+
+    iii) All public use areas, whether developed publicly or privately shall be governed by the provisions of these regulations.
+
+            3.2.2 Private Buildings: All sites, are a developments, buildings and facilities; existing or new constructions, owned, designed, developed, built and maintained for public use by an individual, group of individual so association of persons, shall be covered under the provisions of the accessibility code.
+
+
+            3.2.3 Existing Buildings:
+
+                i) All publicly owned or occupied buildings, facilities and areas shall be subject to modification to the extent of coping requirements as specified in Chapter4, within the limits of the economic capacity and development of the appropriate Government as the authority may in the notification so appoint.
+
+                ii) All privately owned public use buildings and facilities under the scoping requirements as specified in Chapter4, shall be modified to an achievable extent to comply with the provisions of appropriate Government notification other effect.
+
+
+            3.2.4 Exemptions: The provisions of the accessibility code shall not apply to the following types of buildings, facilities, areas and usages:
+
+    i) privately owned buildings not meant for public use.
+    ii) individual private dwellings and residences.
+    iii) existing privately owned public use building  having a gross floor area of less than 2,500s ft. and of types and uses not specifically covered under relevant provisions of Chapter4.
+    iv) provided that the appropriate Government may, having regard to the type of land use, building type or the type of work carried out in any establishment, by notification and subject to such conditions if any, a may be specified in such notification, exempt any building, facility, area or establishment from the provisions of the accessibility code.
+
+
+
+13
+Section 3.3: Compliance
+
+Within the limits of the economic and administrative capacity and development, the appropriate Governments and local regulatory authorities, with a view towards removal  of physical barriers and creation of barrier-free environments, shall undertake or cause to undertake acts, steps and procedures for the effective implementation of the accessibility code by the owners, occupants, tenants developers, planners, designers, architects, engineers, builders, custodians and manager soft he buildings, facilities and areas so required to be built or modified in accordance with the provisions of the accessibility code.
+
+
+            3.3.1 Plan Approvals: For the purpose of the accessibility code, the activities of erection, addition, alteration and the continued use of any existing building, structure or facility shall deem to be covered under these provisions unless expressly excluded for the purpose. Under the relevant regulations for obtaining permission to commence new construction, addition or alteration, at the time of obtaining approval, the applicant shall, in addition to and alongwith other requirements of the relevant regulations for the purpose, submit the following to the regulatory authority:
+
+                i) a block plan of the site drawn to an appropriate and readable scale, showing, and clearly marked thereon, the provision of accessibility facilities as required for open areas and vicinity of buildings under the relevant provisions of the accessibility code.
+
+    ii) line plans of all the floors of the buildings, drawn to an appropriate scale, showing and clearly marked thereon, the proposed accessibility facilities including but not limited to the access route, means of vertical and horizontal circulation and other accessible spaces, areas and elements to the extent as required for interior of buildings under the relevant provisions of the accessibility code.
+
+
+
+
+
+
+
+
+
+
+
+
+
+14
+
+    iii) drawn on the same line plans of all the floors of the buildings, the proposed provisions for accessible means of emergency egress along with the arrangements proposed to make those workable in cases of emergencies.
+
+
+            3.3.2 Completion and Occupancy Certificates: Upon completion of construction as  permitted by the regulatory authority, a completion or occupancy certificate, as the case may be, issued by the regulatory authority shall also, as verification of actual implementation of the proposed provision of accessible facilities at site, certify on the authority of a designated official of the regulatory authority, that the construction, addition or alteration has been completed as permitted, and meets or exceeds the requirements of the provisions of the accessibility code.
+
+
+Section3.4: Complaints and Relief
+
+To meet the need based requirements on case by case basis, as specified for certain building types and uses in the Chapter4, and to ensure continued provision of accessible facilities in covered buildings and areas the appropriate Governments and local regulatory authorities, within their economic and administrative capacity and development shall constitute forums, take measures and setup means and procedures for redress of grievances and provision of relief with regard to the use of the physical environment, or aspects related to  it, brought forward through the complaints or suggestions of affected persons with disabilities or any other person or persons associated with them.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+15
+
+Chapter-4
+SCOPING REQUIREMENTS
+
+
+Section 4.1: General
+
+This chapter provides mandatory requirements and design guidelines to provide an accessible physical environment meeting the needs of persons with disabilities for their independence, convenience and safety in all public buildings and areas.
+
+
+Section 4.2: Scope
+
+
+            4.2.1 Target Group: The accessibility requirements under these bye-laws and guidelines shall cater to persons with following disabilities, temporary or permanent:
+
+                a) Locomotory Impairment: affecting mobility due to impairment of the bunk and/or lower limbs including manipulatory impairment.
+
+                b) Sensory Impairment: affecting vision, wholly or partially.
+
+                c) Sensory Impairment: affecting hearing.
+
+                d) Cognitive Impairment:  affecting mobility, comprehension and maneuverability.
+
+
+
+
+16
+
+            4.2.2 Extent: The application of the accessibility requirements shall be in the following two categories:
+
+                a) Mandatory Requirements:
+Requiring total compliance for new construction and achievable compliance for existing buildings and facilities.
+
+                b) Preferred Standards:
+Suggesting standards and facilities beyond the basic minimum necessary under mandatory requirements for voluntary adoption by the building owners/ users.
+
+
+Section 4.3: Application
+
+The accessibility requirements affecting the design, layout and construction shall apply to the following types of buildings, areas and usages.
+
+4.3.l	Outdoor Areas:
+
+Area/Uses
+Extent of Requirement
+
+i)
+
+Roads and Streets
+
+Mandatory Requirements:
+Sidewalks, Street Intersections, Street Crossings, Parking, Street Furniture
+
+ii)
+Open Spaces and Public Parks
+Mandatory Requirements:
+Shelters/ Rest Areas, Walkways, Refreshment And Dining Areas, Toilets, Ablution Areas, Park Furniture
+
+Preferred Standards:
+Parks, Grounds, Play Areas, All Recreational Facilities, Areas Meant For The Exclusive Use Of Women Or Children
+
+
+17
+
+            4.3.2 Vicinity of Buildings:
+
+Areas/ Uses
+Extent of Requirement
+
+i)
+
+
+
+
+ii)
+
+
+
+iii)
+
+Open areas within site boundaries
+
+
+Common and public use areas
+
+Restricted access areas
+
+Mandatory Requirements:
+Site Entrances, Parking Areas,
+All Public Use Areas, Entrances to Buildings, Routes to Buildings
+
+Preferred Standards:
+Play Areas, Resting Areas,
+All Paths And Walkways, Employee Work Areas
+
+            4.3.3 Interior of Buildings:
+
+Building Types/ Uses
+Extent of Requirement
+
+i)
+
+Low-rise Multifamily Residential, Dwelling Units, 
+Flats
+Mandatory Requirements:
+Entrances, Common Areas At Ground Floor, Fifty Percent Of The Residential Units At Ground Floor, Staircases
+
+Preferred Standards:
+All Residential Units At Ground Floor, Common Areas At All Floors
+
+ii)
+
+Multi-storey Residential, Dwelling Units, Flats, Apartments
+Mandatory Requirements: Entrances, All Common Areas, All Means Of Horizontal And Vertical
+Circulation, Ten Percent Of The Total Residential Units
+
+Preferred Standards:
+All Residential Units
+
+18
+Building Types/ Uses
+Extent of Requirement
+iii)
+Hotels, Motels, Inns, Serviced Residential  Units,
+Hostels, Places of Temporary Residence
+Mandatory Requirements:
+Entrances, Common Areas, Main Facility Areas, Reception/ Information Desks, All Means of Horizontal And Vertical Circulation, Ten Percent Of The
+Total Guest Rooms
+
+Preferred Standards:
+All Guest Rooms, Service Areas, Employee Work Area
+
+iv)
+Administrative, Commercial, Mercantile, Public Service, Educational, Institutional, Health, Composite/ Multiuse
+Mandatory Requirements:
+Entrances, Means of Emergency Exit, Means of Horizontal and Vertical Circulation, Toilets, Main Facility Areas, All Common Areas
+
+Preferred Standards:
+Service Areas, Administrative Offices
+v)
+Recreation, Sports, Public
+Entertainment, Arts,
+Culture, Refreshment, Banquet Halls
+Mandatory Requirements:
+Entrances, Main Foyer, Emergency Exits, Main Facility Area, Public Assembly Areas, Public Toilets
+
+Preferred Standards:
+Administrative Offices, Ticketing Booths, Service Areas, Employee Work Areas
+vi)
+Transportation Terminals
+Mandatory Requirements:
+Entrances, Public Concourse, Information/ Ticketing/ Booking  Counters, Waiting and Rest Areas, Alighting and Boarding Areas, Public Toilets
+
+Preferred Standards:
+Administrative  Offices, Service Areas, Goods Areas
+
+19
+
+Building Types/ Uses
+Extent of Requirement
+vii)
+Specialized  Buildings for exclusive use of People or Children With Di abilities including  Private Dwellings & Residential, Health,
+Educational, Vocational Training and Other Types
+
+
+
+
+
+
+Mandatory Requirements:
+Customized Specific Provisions Beyond Mandatory Requirements For Similar Building TypesI Uses Based On Use, Occupancy And Specific Needs Of The Users
+
+viii)
+
+Industrial Production, Warehouses
+
+Preferred Standards:
+Need Based Requirements On Case To Case Basis
+
+ix)
+
+Religious Buildings
+
+Mandatory Requirements:
+Entrances,  All Common Areas, Praying Area	Assembly Areas, Ablution Toilets, Means of Emergency Egress, Educational Institutions Attached To Religious Buildings
+
+Preferred Standards:
+Places Of Private Residence Attached To Religious Buildings
+
+
+
+20
+
+Building Types/ Uses
+Extent of Requirement
+
+x)
+
+Historic Buildings
+
+Mandatory Requirements: Information/ Ticketing Areas, Refreshment and Hospitality Areas, Public Toilets, Open Areas & Grounds
+
+Preferred Standards:
+Need Based Requirements On Case To Case Basis
+
+xi)
+
+Existing Buildings
+
+a)Government Buildings
+
+
+
+
+Mandatory Requirements:
+All Government Owned Buildings, All Buildings And Premises Occupied By Government Establishments
+
+b)Private Buildings
+Mandatory Requirements:
+Health Care Facilities, Educational, Sports, Public Entertainment Refreshment, Banks Banquet Halls, Hotels, Commercially Developed Dwelling Units, All Other Privately Owned Public Places Having Gross Floor Area of 2,500 Sft. Or More
+
+Preferred Standards:
+All Privately Owned Public Places
+
+
+
+
+
+
+
+
+
+21
+
+
+Chapter-5
+ACCESSIBILITY REQUIREMENTS FOR EXTERNAL ENVIRONMENT
+
+Section5.1: General
+
+All 'outdoor areas' and' vicinity of buildings' as specified in Chapter4 are covered for the purpose of provision of accessibility requirements  under provisions specified herein below, including all new constructions, and covered existing development.
+
+
+Section5.2: Design Requirements
+
+            5.2.1 Accessible Route:
+
+                i) At least one accessible route which is unobstructed, level, continuous, illuminated and reasonably weather protected shall be provided on the premises from parking place; site gate or entrance; and/or public street to accessible entrance to the building.
+                ii) A gradient of less than 1:20 is considered level access.
+                iii) The width of accessible route shall not be less than 48 inches and it shall be protected by handrail where there is a level drop of more than 18 inches from the adjoining ground surface.
+
+            5.2.2 Approaches to Buildings:
+
+                i) At least one of the entrances to every building on the premises shall be accessible by a wheel chair bound person.
+                ii) The entrance into the building shall give a clear opening of not less than 33 inches.
+
+
+22
+
+            5.2.3 Ramped Approach:
+
+                i) Where ramps are required to maneuver a distance along an accessible route, the running slope should not exceed 1:20, and in any case shall not be more than 1:12 for new construction. 
+                ii) For existing development the running slope shall be allowed upto 1:8, only where an alternative stepped approach   is also provided.
+                iii) The cross slope for an accessible ramp shall not exceed 1:50.
+                iv) The ramp shall not be less than 48 inches wide.
+                v) The maximum rise allowed between two landings shall be 30 inches.
+
+            5.2.4 Outdoor Steps:
+
+                i) Steps and stair cases on an outdoor access route shall not be less than 36 in. wide.
+                ii) Each step shall have a riser not more than 6 in. and a tread width of not less than 11 inches.
+    iii) Single steps should be avoided.
+    iv) All steps and stair case shall have hand rail along one side at least.
+
+            5.2.5 Ground Surfaces:
+
+                i) The surfaces of accessible route and its elements including but not limited to ramps and steps shall be of a firm, slip-resistant and reasonably smooth construction especially under wet conditions.
+                ii) Detectable tactile surface should be provided across the width of accessible route at each level change and at head and foot of ramps and steps.
+
+            5.2.6 Handrails:
+
+                i) To provide guidance and support continuous hand rails should be provided along exposed sides of the accessible route.
+                ii) The handrails shall be of sturdy on construction, not exceeding 2 inches in diameter and shall extend a minimum of 12 inches beyond the step or ramp in the running direction.
+                iii) The height of the handrail from the floor surface shall not be less than 30 inches and more than 42 inches.
+
+
+23
+
+            5.2.7 Walkways:
+
+                i) To allow for wheel chair users the walk ways, footpath sand side walk pavements shall not be less than 48inches wide; and of a clear width of 36 inches at clearly identified obstructions like utility poles, trees and other appurtenances.
+                ii) The gradient of walk ways should not exceed 1:12.
+                iii) All walk ways shall have curb ramps conforming to ramp specific at ions at curb crossings.
+                iv) The gratings on walk ways should not have parallel bars and shall have apertures running at right angles to the direction of travel and of size not larger than 1 inch width.
+
+            5.2.8 Pedestrian Crossings:
+
+                i) All marked pedestrian crossings on the roads shall be provided with curb ramps and detectable floor paving.
+                ii) The pedestrian crossings shall be clear of obstructions along the road width and should have guiding rails at the curbs.
+                iii) Where possible auditory signals and manually operated traffic lights should be provided at road crossings in areas of high pedestrian traffic.
+                iv) Safe traffic islands to reduce the length of the crossing are recommended for the safety of all road users.
+
+            5.2.9 Vehicular Parking: Accessible parking provisions apply to both outdoor and indoor parking facilities.
+
+                i) Parking facilities shall be accessible through an accessible route and at least one floor of a multi-storey indoor parking facility shall be served either by an accessible elevator or an accessible ramp.
+                ii) For car parking places requiring a minimum of twenty and maximum of fifty parking spaces at least one dedicated parking space shall be reserved for the exclusive use of drivers or passengers with physical disabilities.
+                iii) Where car parking requirements exceed fifty spaces in number, a minimum of two percent of parking spaces shall be so reserved.
+
+
+24
+
+
+                iv) For motorcycle and bicycle parking places requiring a combined minimum total of at least fifty spaces, one parking space for adapted hi cycle or motorcycle meant for the use of persons with physical disabilities shall be reserved.
+                v) Where bicycle and motorcycle parking requirements exceed fifty, a minimum of four percent of parking spaces shall be so reserved.
+                vi) There served parking spaces shall be located in clear view of and nearest to the accessible entrance to the building or facility.
+
+            5.2.10 Parking Space Dimensions:
+
+                i) The width of an accessible reserved parking space for a car shall not be less than 12 feet, inclusive of a 48 in. wide accessible aisle.
+                ii) A 48 inch wide access aisle may be shared between two adjacent car parking spaces.
+                iii) The width of an accessible reserved parking space for adapted motorcycle/ tricycle shall not be less than 6 feet.
+                iv) For indoor parking, the minimum height clearance for accessible parking shall be maintained as 8 feet.
+                v) All parking spaces reserved for the use of drivers or passengers with disabilities shall be clearly identified on the ground surface with internationally accepted markings.
+
+            5.2.11 Illumination: All usable and accessible outdoor areas and routes shall be provided with illumination levels of a minimum of 5 foot-candle (55lux) at all times.
+
+            5.2.12 Signage:
+
+                i) All accessible facilities shall be clearly identified with sign postings conforming to outdoor applications, illuminated internally or externally to specified levels, with internationally accepted symbols showing accessible facility provisions.
+                ii) Where within the reach, all directional and guidance signs should also be supplemented with Braille markings.
+                iii) The minimum height of characters for sign age shall conform to those specified for external environments.
+
+25
+
+            5.2.13 Street & Park Furniture:
+
+                i) Street and park furniture should be so located so as to allow for free passage of all people without hazards.
+                ii) Textural and colour changes in floor surface shall be provided to identify provision of street furniture items.
+                iii) Resting facilities should be provided at convenient intervals, ranging between 100m. and 200m. distance, and shall be adjacent to but placed outside the main circulation path or the  accessible route.
+                iv) Some seating accommodations should be placed close to public toilets.
+
+            5.2.14 Public Toilets:
+
+                i) Public toilets in outdoor facilities and along public streets should be provided at convenient locations and preferably in close proximity to mosques and public parks.
+                ii) Each location of public toilets shall have at least one unisex toilet for use by persons with disabilities.
+                iii) The unisex public toilet shall be accessible and usable by persons with disabilities of either gender and shall be equipped with usable wash hand basin, European type water closet, grab bars, running water, and workable illumination; and shall be large enough to accommodate one wheelchair bound person accompanied by an attendant of either gender.
+                iv) The accessible toilet shall be identified with accessibility signs for visual and tactile identification.
+
+Section5.3: Public Transport Requirements
+
+            5.3.1 Land Transport: Public land transport like buses vans, taxis, three-wheelers etc. should as far as practicable include facilities to accommodate persons with disabilities. New services and vehicles, when provided, whether for use of general public or for dedicated use of persons with disabilities, should comply with accessibility standards, including but not limited to the following:
+
+                i) Accessible travel routes, resting facilities proper illumination and sign age to transport terminals, bus stops and public waiting areas.
+
+26
+
+                ii) Low-floor vehicles having a maximum height of 12 in. above ground level should be used as accessible vehicles.
+
+                iii) For buses and vans with hydraulic lift or pull out ramp apparatus, maintain a clear space of 48 in. for vehicles using a lift, and a clear space of 96 in. for vehicles using a ramp, at the side or rear of parked vehicle, as the case may be.
+
+                iv) Buses and vans should have doors and a isle between the seats of at least 30in. clear width, and should be equipped with low-level step; handrail; foot light; wheelchair safety belts; and reachable alighting buzzer.
+
+                v) All facilities on the ground and on-board the vehicles, shall be identified with accessibility signs.
+
+                vi) Training should be provided to drivers and other staff of public transport services for awareness towards needs of  persons with disabilities.
+
+
+            5.3.2 Rail Transport: Railway being an effective, and in certain cases, the only available mode of  transport, should be fully accessible to persons with disabilities, with the following minimum facilities:
+
+                i) railway stations shall be fully accessible in accordance with scoping requirements of Chapter4, and wheel chairs shall be maintained for the use of people in need at each station according to passenger load.
+
+                ii) the railway carriage and platform should be at the same level, and the gap between the carriage door and the plat form should not be more than I inch.
+
+                iii) in situations where platform and railway carriage cannot be at the same level, portable platform lifts shall be maintained at those railway stations.
+
+
+27
+
+                iv) All edges of platforms and other places of possible hazard shall be marked with tactile floor warnings in contrasting colours.
+
+                v) Every train shall contain fully accessible carriages with doors and aisle widths of at least 33 in. width, and equipped with storage space for wheel chairs; and accessible and usable toilets.
+
+                vi) Railway service staff should be trained in methods of assistance to persons with disabilities and be at hand on request.
+
+                vii) All accessible facilities shall be identified with accessibility signs.
+
+            5.3.3 Air Transport: All passenger aircrafts and air terminals should have the capacity to safely accommodate wheelchair passengers and all related services should be accessible to persons with disabilities, providing the facilities including but not Limited to the following:
+
+                i) All passenger terminals shall be fully accessible in accordance with scoping requirements of Chapter4, and wheelchairs shall be maintained for the use of people in need at each airport or terminal building according to passenger load.
+
+                ii) All aircrafts and on-board facilities should have the capacity to be used by wheelchair bound persons, with special attention given to toilet facilities.
+
+                iii) Control switches for on-board facilities shall not be above arm-rest level.
+
+                iv) Special care and preference should be given to persons with disabilities in boarding and alighting the aircraft.
+
+                v) Air traffic service staff should be trained in methods of assistance to persons with disabilities and be at hand on request.
+
+                vi) All accessible facilities shall be identified with international accessibility sign age.
+
+28
+
+
+            5.3.4 Water Transport: All forms of public water transport facilities should have the capacity to accommodate persons with disabilities, and provide facilities including but not limited to the following:
+
+                i) Making all passenger terminals accessible in accordance with scoping requirements of Chapter4.
+
+    ii) Access ramps shall be properly secured and protected with sturdy guard rails, non-slippery surfaces and tactile warning blocks.
+
+    iii) Pier and jetty areas should be accessible and shall have adequate protection against accidentally falling down the sides.
+
+    iv) On-board facilities should include apparatus for securing wheelchairs, and ample provision of grab bars for people with disabilities and infirmities.
+
+    v) Service staff should be trained in methods of assistance to persons with disabilities and be at hand on request.
+
+    vi) All accessible facilities shall be identified with accessibility signage.
+
+
+
+
+
+
+
+
+
+
+
+
+29
+
+Chapter-6
+ACCESSIBILITY REQUIREMENTS FOR INTERNAL ENVIRONMENT
+
+Section 6.1: General
+
+All' interior of buildings' as specified in Chapter4 are covered for the purpose of provision of accessibility requirements under provisions specified here in below, including all new constructions, and covered existing development, and comprise access, horizontal and vertical movement, level changes, illumination and way finding aspects.
+
+
+
+Section 6.2: Design Requirements
+
+
+            6.2.1 Accessible Route:
+
+                i) At least one accessible route which is unobstructed, level, continuous and illuminated shall be provided on the premises, connecting accessible building or facility entrances with all covered accessible spaces and elements within the building or facility.
+                ii) The minimum clear width of indoor accessible route shall be 48 inches except at doors.
+                iii) If the clear width of an accessible route is less than 60 inches, passing spaces of size 60 in. by 60 in. shall be provided at reasonable intervals not to exceed 100 feet.
+                iv) An intersection with another corridor or passage shall be considered acceptable passing space.
+
+
+
+30
+
+                v) The minimum clear and unobstructed head room of an accessible route shall not be less than 80 inches.
+                vi) An only accessible route serving an accessible pace or area shall also serve as a means of emergency egress or connect to an area of refuge or rescue assistance.
+
+            6.2.2 Entrances to Buildings:
+
+                i) At each accessible entrance to building or facility at least one accessible door shall be provided having a clear opening of at least 33 inches wide and 80 inches high, and opening in the direction of travel.
+                ii) Accessible entrance to building shall be easy to negotiate and shall have level space to accommodate one wheelchair beyond the swing of the door, at the same level on both sides of the door.
+                iii) The level change at threshold of an accessible entrance shall not exceed 0.75 inches.
+
+            6.2.3 Vertical Movement:
+
+                i) Stairs, ramps and lifts shall be provided along an accessible route to negotiate level changes.
+                ii) 1n low-rise buildings the accessible stair case shall have a minimum clear width of 42 inches between the hand rails.
+                iii) The accessible stair case shall have a maximum riser of 7in. and a minimum head width of 11 inches.
+                iv) If a ramp is provided on the accessible route, its gradient shall not exceed l:12, and its single run hall not exceed 48 feet.
+                v) The minimum clear width of the ramp shall be 36 inches with passing space provided at the landings.
+                vi) The hand rail shall be provided to both sides of the accessible stair case and ramp, and the distance between the parallel hand rails shall not exceed 72 inches.
+                vii) The hand rails shall extend a minimum of 12 in. beyond the end of step or ramp, and detectable coloured tactile trips shall be provided at head and foot of the stair case or ramp.
+
+
+
+31
+
+                i) In all multi-storey buildings at least one accessible lift shall be provided to serve all accessible floors of the building or facility.
+                ii) The accessible lift shall conform to specifications as given in Chapter?.
+
+            6.2.2 Accessible Space:
+
+                i) All paces and are as required under Chapter4 to be accessible and usable to persons with disabilities, shall be served with an accessible route and required number of accessible means of egress in cases of emergencies.
+                ii) The doors serving the accessible spaces and are as shall have a clear opening width of at least 33in., and shall have sufficient space for at least one wheel chair inside and outside the door in addition to space required for opening of door.
+                iii) The floor surface of accessible space shall be fairly smooth, finn and slip-resistant in dry conditions.
+                iv) All built-in obstructions and protrusions next to an accessible route shall be identifiable with detectable coloured and tactile warnings trips on the floor.
+                v) The sill level of windows in an accessible area or space should below so as to allow view to wheelchair bound persons, and to be used as means of egress if need be.
+
+
+            6.2.3 Lighting and Illumination:
+
+                i) The elements and components of an indoor accessible space, area, or route should be well lit.
+                ii) The minimum illumination level in an accessible pace shall not be less than 5 foot candles (55lux) at any time.
+                iii) Preferably, level of general illumination should range between 10 and 20 foot candles (110-220 lux).
+                iv) In case of power supply failure, illumination of indoor accessible space, area and route shall be maintained through emergency power supply for the duration the accessible space is expected to be occupied.
+
+
+32
+
+            6.2.6 Signage:
+
+                i) Signs which designate permanent rooms and spaces; direction a land guidance signs for accessible facilities and areas; and sign for accessible functional spaces and elements within the building or facility shall be identified with international symbols of accessibility.
+                ii) The accessible provisions identifying designated parking, accessible entrances, accessible routes and other means of vertical and horizontal movement, accessible toilets and means of emergency egress shall be identified with signs having a minimum character height of 3 inches.
+                iii) The signs shall be illuminated internally or externally, and supplemented with Braille translations when within the reach.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+33
+
+
+Chapter-7
+ACCESSIBLE BUILDING COMPONENTS, ELEMENTSAND SERVICES
+
+Section 7.1: General
+
+            7.1.1 The design requirements given in this chapter are based upon wheelchair dimensions of internationally accepted standards.
+            7.1.2 The dimensional requirements cover wheelchair bound    persons maneuvering independently as well as with the help of an attendant.
+
+Section7.2: Space Allowance
+
+            7.2.1 The minimum clear floor space required for a stationary wheelchair with its occupant shall be 36 in. by 48 in. A minimum clear floor space of 48 in. by 48 in. shall be considered to allow access for both forward and side approach. A circle with a diameter of 60 in. shall deem to provide the space required for a wheelchair bound person to turn in any direction.
+            7.2.2 The forward reach range for a wheelchair bound person is between 48 in. maximum and 16 in. minimum above floor level. The maximum forward reach over an obstruction like table work counter etc, should be taken as
+20 inches. The side reach varies between a maximum of 52 in. and a minimum of 10 in. above floor level. The white cane zone extends 48 in. across and 28 in. in height in front of the person using the device.
+            7.2.3 The floor surface for movement of person with ambulatory disabilities should be firm, level, slip-resistant and should not have any projections, drops or unexpected variations in level.
+
+
+
+
+34
+
+Section 7.3: Toilet Facilities
+
+            7.3.1 At every floor of a building or facility where toilets are required to be provided, at least one accessible and usable toilet shall be provided for male and female.
+            7.3.2 The accessible toilet should have at least 60 in. wide clear space in both directions. Smaller toilets shall have door opening outside.
+            7.3.3 The wash basin shall be wall mounted type with lever handle controls and insulated and concealed hot water pipe connections.
+            7.3.4 Water closet should be of European type with the top of seat at a height between 18 in. and 20 in. above floor level. It shall be located between 18 in. and 21 in. from the centre line of the water closet to one of the adjoining walls. If un-coupled, the water closet shall have a back support.
+            7.3.5 Reachable Muslim shower shall be provided at the adjoining wall. 
+            7.3.6 The shower are a shall have a clear dimension of 48 in. by 48 in. and should preferably be provided with horizontal grab bar and a folding showers eat of water proof construction.
+            7.3.7 The bottom of the mirror shall not be more than 40 in. above floor level, and all operable parts and controls of other fixtures and fittings shall be located within a range of 40 in. and 48 in. above floor level.
+            7.3.8 An accessible public toilet shall be clearly identified with visual and tactile signs depicting international accessibility symbol.
+            7.3.9 Door to the accessible toilet shall have a clear opening of at least 30 in. and shall be lock able from inside and releasable from outside under emergency situations. The door should be provided with a 24 in. pull bar on the inside, and be provided with spring-or gravity-closing hinges.
+            7.3.10 Horizontal and vertical grab bars shall be provided with shower and water closet at adjoining and rear walls to assist transfer of wheelchair bound person to and from the water closet or the shower seat.
+
+Section7.4: Kitchen and Work Counters
+
+        7.4. l	Floor space should allow for easy maneuverability. A clear space equal to wheelchair turning space (60in. diameter) shall be provided between opposing vertical surfaces.
+
+
+
+35
+            7.4.2 Counter tops shall be between 30 in. and 33 in. in height and provide for clear knee space underneath. The depth of the counter top should not be more than 21 inches.
+            7.4.3 For persons with ambulatory disabilities other than wheel chair users, stools with back support and foot rest should be provided.
+            7.4.4 Shelves and storage space should be at a height between 12 in. and 48 in. above floor level.
+            7.4.5 All exposed hot water pipes under the sink and counters shall be insulated and concealed.
+
+Section7.5 Assembly Seating
+
+        7.5. 1	In places of assembly two percent of seats shall be reserved for wheelchair bound persons.
+            7.5.2 Designated wheelchair spaces should where possible be paired.
+            7.5.3 Designated seating shall be on a direct route, free from obstructions and located in an easily identifiable situation.
+            7.5.4 Designated seating shall not obstruct participants, or other members of the audience.
+            7.5.5 A clear space 36 in. wide hall be kept open for movement of wheelchair bound person, in front of the first row, or at back of the last row having designated assembly seating.
+            7.5.6 The designated seating shall have direct link with accessible means of emergency egress.
+            7.5.7 The stage or activity area in the place of assembly shall be accessible.
+
+Section7.6: Doors
+
+            7.6.1 	Accessible doors should be inconvenient locations away from comers.
+            7.6.2 There shall be an unobstructed space of min. 12 in. width adjacent to the door handle on leading face of any side hung door.
+            7.6.3 Doors to small rooms should slide or open out. Toilet doors to accessible toilet compartments shall invariably open out.
+            7.6.4 Doors opening out in an accessible route, passage or corridor shall be recessed to avoid hazard. Doors wings shall not conflict.
+
+
+
+
+
+36
+
+
+            7.6.5 Side-hung doors are preferred over any other type of door opening mechanism, except in case of automatic doors where sliding doors are recommended. Automatics wing doors shall in no case open against the direction of travel. Revolving doors shall not be considered as accessible doors.
+            7.6.6 The minimum door width required of an accessible door measured from the open panel to the edge of opposite door jamb is 33 inches in an open position when approached at an angle, and 30 in. when approached straight on.
+            7.6.7 Door handles for an accessible door shall not be less than 38 in. and not more than 42 in. from floor level. The door shall have lever-type handles.
+            7.6.8 Kick plates to accessible doors shall not be less than 10 in. high.
+            7.6.9 Frameless glass doors shall be avoided unless prominently marked so as to make those visible in all conditions.
+
+Section7.7: Handrails and Grab Bars
+
+7.7.1	All accessible stair cases, accessible ramps and corridors and spaces for the exclusive use of ambulatory persons with disabilities shall be provided with securely fixed hand rails. Where the gradient of a ramp is less than 1:20 no hand rails are required.
+            7.7.2 Where there is a drop of more than 18 inches to the side of an accessible ramp, stair case or passage, a balustrade shall be provided.
+            7.7.3 The height of hand rails shall be not less than 30 in., or more than 48 in., above floor level.
+            7.7.4 The hand rails shall either be circular or oval in shape and having a maximum diameter of 2 in. at the grip; and shall extend horizontally for at least 12 in. at each end of stair case or ramp. Wall fixed hand rails shall provide a continuous uninterrupted grip throughout its length and shall be fixed at a minimum distance of 11/2 in. away from the wall surface. The ends of the hand rails shall be rounded and not become hazardous as protruding objects.
+            7.7.5 The maximum distance between two parallel hand rails on an accessible stair case or ramp shall not be more than 72 inches.
+            7.7.6 Grab bars for accessible and usable toilets shall be not less than 24 in. in length; shall extend 2 in. away from the wall; shall have an external diameter between 1 in. and 2 in.; and shall be securely fixed to the wall. Plastic covered grab bars are preferred over chrome finished rails, while slightly corrugated plastic surface is recommended.
+
+37
+
+Section7.8: Lifts
+
+            7.8.1 All accessible lifts shall be equipped with either sliding or outward opening doors of a minimum clear width of 30 inches; shall have grab bars fixed to either the side walls or the back wall; shall have switches and controls located not more than 48 in. high above floor level; shall be equipped with talking and Braille signs in addition to regular signs; and shall have threshold coverings.
+            7.8.2 The floor of the lift cab shall be slip-resistant and walls shall be resistant to damage by wheelchairs.
+            7.8.3 The size of the elevator shall be such that it could accommodate at least one wheelchair bound person with an attendant.
+            7.8.4 All controls and buttons required for operation of an accessible lift by a wheelchair user shall be placed within reach, and shall have Braille signs also.
+            7.8.5 In cases where accessible lift is being designated as an accessible means of emergency egress, it shall be of fire protected construction; shall be operable on emergency power supply for a minimum of 30 minutes' duration; shall be properly identified with egress signage; and shall be capable of being illuminated, meeting the requirements of emergency egress.
+            7.8.6 A freight elevator shall not be considered as an accessible lift.
+            7.8.7 A conventional passenger lift should be a preferred option to provide comprehensive access for all users. However, in existing buildings or other situations where access to such a lift is not possible, a platform or stair lift may be considered as an alternative option.
+
+Section7.9: Switches and Controls
+
+7.9.1	All light switches and other control switches and buttons shall be conveniently located within the reach ranges of wheel chair bound persons. Are commended height to locate these controls is 42 inches above floor level.
+            7.9.2 Pull knobs for ceiling switches etc. should not be at a height of more than 40 in. above floor level.
+            7.9.3 To permit easy manipulation, switches and controls should be as wide as possible. For extreme cases rocker plates witches are recommended.
+            7.9.4 Lamp holders and other fixture son wall brackets in accessible positions are preferred over ceiling mounted fixtures.
+
+38
+
+Chapter-8
+
+ACCESSIBLE MEANS OF EMERGENCY EGRESS
+
+
+
+Section 8.1: General
+
+            8.1.1 All accessible are as within buildings or portions there of shall be provided with accessible means of egress during emergencies as required by this chapter.
+            8.1.2 Accessible means of egress shall be maintained in working order at all times,  notwithstanding the provisions of relevant regulations especially those related to fire codes, and shall not be altered or tempered within a manner that would reduce or hamper the effectiveness of the accessible means of egress.
+
+
+
+Section8.2: Applicability
+
+8.2.l	Scope:
+
+i)	The general requirements specified in this chapter shall apply to all accessible buildings and structures having the accessible means of horizontal and vertical circulation; accessible common areas; exits; and means of communication and services.
+ii)	These requirements are in addition to those specified in the relevant regulations for egress in cases of emergencies.
+
+
+
+
+
+
+39
+
+            8.2.2 Space Standards:
+
+                i) All accessible areas shall be provided with not less than one accessible means of egress.
+    ii) The space standards to determine the number of accessible egress shall be one for every
+
+        a) 5,000 sft. of gross floor area, or
+        b) an occupant load of 50 persons, or
+        c) a travel distance of 100 feet from the farthest end to the place of accessible exit at that storey,
+
+whichever condition is more stringent. Beyond the minimum requirement, a fraction of less than 0.25 shall be disregarded while a fraction of more than 0.25 shall be taken as whole number in determining the number of accessible means of egress.
+
+
+            8.2.3 Continuous Egress: Each required accessible means of egress shall be continuous to a public way, open space at ground level or other means of egress under relevant regulations, and shall consist of one or more of the following:
+
+                i) accessible route within the building complying with requirements of Chapter 6.
+                ii) accessible fire-protected staircase within enclosures conforming to fire exit requirements of relevant fire regulations.
+                iii) in buildings and facilities requiring provision of elevators, at least one accessible elevator for emergency egress, being so designated, and having fire-protected construction  and operable on emergency power supply for a duration of at least thirty minutes.
+                iv) accessible horizontal exit opening to a public way or a safe open area at ground level or roof terrace level.
+
+
+
+
+
+
+40
+
+            8.2.4 illumination: The accessible means of emergency egress shall be continuously illuminated by means of premise's electrical supply at an illumination level of at least 1foot-candle (11 lux) at the floor level, and in case of power supply failure automatically switching over to emergency electrical system providing power for at least thirty minutes' duration and an illumination level of at least 0.1 foot-candle (llux) at the floor level.
+
+            8.2.5 Signage: Signs indicating special accessibility provisions identifying the accessible means of egress, illuminated externally or internally, shall be provided in accordance with requirements of accessible signage.
+
+            8.2.6 Alarm: Not withstanding provisions of the relevant regulations for emergency alarm, the alarm shall be provided having auditory and visual signals, covering the entire accessible space within a building and facility.
+
+            8.2.7 Ramps: in hospitals and other buildings for the specific use of persons requiring assistance for mobility, provision of an accessible ramp in addition other mandatory requirements for emergency egress should be considered.
+
+Section 8.3: Rescue Assistance
+
+            8.3.1 Area of Refuge/ Rescue Assistance: In all multi-storey buildings, and those low-rise buildings which have an accessible gross floor area of 5,000 sft. Or more at one storey, shall be provided and designated an area of refuge located in a fire-protected area at the accessible stair landing or adjacent to an accessible emergency lift on each storey.
+
+                i) The area of refuge shall be of a size that can safely accommodate at least two wheel chairs with attendants; shall be equipped with accessible means of communication with the building managerial station; and shall be connected to an external area of assisted rescue which must be open to the outside.
+                ii) The doors leading in to the area of refuge shall have door handles with tactile warnings identifying the area as such.
+                iii) For health care and educational facilities meant for the exclusive use of persons with disabilities, and other building shaving long internal travel distances, the Defend in Place life safety approach should also 
+
+41
+
+be considered, where persons with disabilities are not completely evacuated from the building in cases of emergences, but are moved through a horizontal exit to an adjacent protected compartment separated by fire-protected partitions.
+
+            8.3.2 Rescue Assistance Plan:
+
+                i) For all buildings and facilities requiring provision of an area of refuge, a rescue plan, out lining the procedures to be adopted for evacuating those occupants of the  building who need evacuation assistance in cases of emergencies; and clearly defining the responsibility role and duties of rescue personnel for evacuation of people with disabilities, shall be prepared and adopted, for use and putting into action in cases of emergencies, and a copy there of supplied to the on-ite managerial staff of the premises, as well as to the concerned agency of the Government entrusted with the task of emergency evacuation under the law.
+                ii) To maintain the rescue assistance planning working order, a drill for emergency evacuation should be carried out at least once every year.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+42
+
+
+
+

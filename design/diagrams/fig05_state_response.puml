@@ -1,0 +1,32 @@
+@startuml
+!include _style.iuml
+
+state "Unanswered" as U
+state "PASS" as P
+state "FAIL" as F
+state "NA" as N
+state "UNABLE" as X
+state "Deferred" as D
+
+[*] --> U
+U --> P : measured value meets threshold
+U --> F : measured value fails threshold
+U --> N : element absent /\ngate condition false
+U --> X : present but not assessable\n(reason required)
+U --> D : postponed during survey
+D --> U : revisited
+
+P --> F : auditor override\n(justification required)
+F --> P : auditor override\n(justification required)
+N --> U : gate condition changes
+F --> [*]
+P --> [*]
+N --> [*]
+X --> [*]
+
+P : counts in numerator\nand denominator
+F : counts in denominator;\nraises a Finding
+N : excluded from both
+X : excluded from score;\nreported as coverage gap
+D : blocks audit closure
+@enduml

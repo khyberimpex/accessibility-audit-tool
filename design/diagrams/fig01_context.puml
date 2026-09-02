@@ -1,0 +1,36 @@
+@startuml
+!include _style.iuml
+left to right direction
+skinparam packageStyle rectangle
+
+actor "Field Surveyor" as FS
+actor "Head Surveyor" as HS
+actor "User-Group\nParticipant" as UG
+actor "Reviewer /\nAdministrator" as RA
+actor "Commissioning\nClient" as CC #DDDDDD
+
+rectangle "Accessibility Audit Tool" as SYS {
+  component "Field Application\n(Android, offline)" as APP
+  component "Web Console\n(review, admin, reporting)" as CON
+}
+
+cloud "Supabase\n(Postgres, Auth, RLS)" as SB
+cloud "Cloudflare R2\n(photo objects)" as R2
+node "Device GPS\n& Camera" as HW
+
+FS --> APP
+HS --> APP
+UG --> APP
+RA --> CON
+APP <--> SB : sync (structured)
+APP --> R2 : upload (imagery)
+CON <--> SB
+CON --> R2 : fetch for report
+APP <-- HW
+CON ..> CC : issued report (PDF / DOCX)
+
+note bottom of CC
+  Not a system user.
+  Receives documents only.
+end note
+@enduml

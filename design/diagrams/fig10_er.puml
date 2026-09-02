@@ -1,0 +1,158 @@
+@startuml
+!include _style.iuml
+skinparam linetype ortho
+hide circle
+
+entity "app_user" as U {
+  * id : uuid <<PK>>
+  --
+  * full_name : text
+  * role : user_role
+  * is_active : boolean
+}
+
+entity "standard" as S {
+  * id : uuid <<PK>>
+  --
+  * name : text
+  * version : text
+  issued_on : date
+}
+
+entity "requirement" as R {
+  * id : uuid <<PK>>
+  --
+  * standard_id : uuid <<FK>>
+  * key : text
+  * authority : authority_status
+  * severity : severity_level
+  citation : text
+}
+
+entity "threshold" as TH {
+  * id : uuid <<PK>>
+  --
+  * requirement_id : uuid <<FK>>
+  value_mm10 : integer
+  * operator : cmp_op
+  * rounding : round_dir
+  applies_construction : construction_status
+  applies_location : applies_scope
+}
+
+entity "instrument" as I {
+  * id : uuid <<PK>>
+  --
+  * standard_id : uuid <<FK>>
+  * sector : sector_type
+  * version : integer
+  published_at : timestamptz
+}
+
+entity "question" as Q {
+  * id : text <<PK>>
+  --
+  * instrument_id : uuid <<FK>>
+  requirement_id : uuid <<FK>>
+  * prompt : text
+  * answer_type : answer_type
+  display_condition : text
+  guidance : text
+  * ordinal : integer
+}
+
+entity "site" as ST {
+  * id : uuid <<PK>>
+  --
+  * name : text
+  * sector : sector_type
+  district : text
+  lat : numeric
+  lon : numeric
+  * ownership : ownership_type
+  gross_floor_area_sqft : integer
+  * construction_status : construction_status
+}
+
+entity "audit" as A {
+  * id : uuid <<PK>>
+  --
+  * site_id : uuid <<FK>>
+  * instrument_id : uuid <<FK>>
+  * code : text <<UQ>>
+  * status : audit_status
+  started_at : timestamptz
+  closed_at : timestamptz
+}
+
+entity "response" as RS {
+  * id : uuid <<PK>>
+  --
+  * audit_id : uuid <<FK>>
+  * question_id : text <<FK>>
+  answered_by : uuid <<FK>>
+  * state : response_state
+  measured_mm : integer
+  slope_rise : integer
+  slope_run : integer
+  override_reason : text
+  * mutation_id : uuid <<UQ>>
+}
+
+entity "evidence" as E {
+  * id : uuid <<PK>>
+  --
+  * response_id : uuid <<FK>>
+  * kind : evidence_kind
+  object_key : text
+  captured_at : timestamptz
+  lat : numeric
+  lon : numeric
+  consent_recorded : boolean
+}
+
+entity "finding" as F {
+  * id : uuid <<PK>>
+  --
+  * response_id : uuid <<FK>> <<UQ>>
+  deficit_mm : integer
+  * priority : priority_level
+  * effort_band : effort_band
+}
+
+entity "recommendation" as RC {
+  * id : uuid <<PK>>
+  --
+  * finding_id : uuid <<FK>> <<UQ>>
+  generated_text : text
+  edited_text : text
+  edited_by : uuid <<FK>>
+  edited_at : timestamptz
+}
+
+entity "report" as RP {
+  * id : uuid <<PK>>
+  --
+  * audit_id : uuid <<FK>>
+  * version : integer
+  * is_draft : boolean
+  approved_by : uuid <<FK>>
+  approved_at : timestamptz
+}
+
+S ||--o{ R
+R ||--|{ TH
+S ||--o{ I
+I ||--o{ Q
+R ||--o{ Q
+ST ||--o{ A
+I ||--o{ A
+A ||--o{ RS
+Q ||--o{ RS
+U ||--o{ RS
+RS ||--o{ E
+RS ||--o| F
+F ||--|| RC
+A ||--o{ RP
+U ||--o{ RP
+@enduml

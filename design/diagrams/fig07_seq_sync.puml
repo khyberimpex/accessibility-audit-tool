@@ -1,0 +1,45 @@
+@startuml
+!include _style.iuml
+autonumber
+
+participant "Field App" as APP
+participant "Outbox" as OB
+database "Local SQLite" as DB
+participant "Supabase\n(Postgres + RLS)" as SB
+participant "Cloudflare R2" as R2
+
+APP -> APP : connectivity detected
+APP -> OB : read pending mutations (ordered)
+
+group Structured data first (FR-5.4)
+  loop for each mutation batch
+    OB -> SB : upsert responses/findings\n(idempotent by mutation_id)
+    alt accepted
+      SB --> OB : server sequence assigned
+      OB -> DB : mark synced
+    else conflict
+      SB --> OB : existing row newer
+      OB -> DB : last-writer-wins;\nretain superseded in history
+    else network failure
+      SB --> OB : timeout
+      OB -> OB : retain, retry with backoff
+    end
+  end
+end
+
+group Imagery second, lower priority
+  loop for each pending object
+    OB -> R2 : PUT object (resumable)
+    alt uploaded
+      R2 --> OB : 200 OK + key
+      OB -> SB : update evidence.object_key
+      OB -> DB : discard local original
+    else interrupted
+      R2 --> OB : partial
+      OB -> OB : resume from offset
+    end
+  end
+end
+
+APP -> APP : sync complete; audit -> Synced
+@enduml

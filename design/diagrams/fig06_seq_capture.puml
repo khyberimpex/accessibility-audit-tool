@@ -1,0 +1,40 @@
+@startuml
+!include _style.iuml
+autonumber
+
+actor "Field Surveyor" as FS
+participant "Field App\nUI" as UI
+participant "Questionnaire\nEngine" as QE
+database "Local SQLite" as DB
+participant "Outbox" as OB
+participant "Camera" as CAM
+
+FS -> UI : open item 6.3 (ramp slope)
+UI -> QE : evaluate display condition
+QE -> DB : read gating response (6.0.exists)
+DB --> QE : true
+QE --> UI : render item + guidance + diagram
+
+FS -> UI : enter rise 150 mm, run 900 mm
+UI -> QE : normalise to ratio 1:6
+QE -> DB : read requirement threshold (1:12)
+DB --> QE : threshold
+QE --> UI : evaluate -> FAIL, deficit shown
+
+UI -> DB : write Response (state=FAIL, slope 1:6)
+DB --> UI : committed
+note right of DB
+  Commit precedes user
+  acknowledgement (FR-5.2)
+end note
+UI --> FS : saved, evidence required
+
+FS -> UI : capture photo
+UI -> CAM : request capture
+CAM --> UI : image bytes
+UI -> UI : resize 1600 px, JPEG q75
+UI -> DB : write Evidence (item 6.3, ts, GPS)
+UI -> OB : enqueue mutation + object
+OB --> UI : queued
+UI --> FS : evidence attached
+@enduml

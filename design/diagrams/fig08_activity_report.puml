@@ -1,0 +1,58 @@
+@startuml
+!include _style.iuml
+skinparam ConditionEndStyle hline
+
+|#F5FAF6|Scoring (FR-7)|
+start
+:Audit reaches Synced;
+:Load responses, findings,\ninstrument + standard version;
+:Partition responses by state;
+note right
+  NA excluded from numerator
+  and denominator. UNABLE
+  excluded from score, carried
+  forward as coverage.
+end note
+:Apply severity weights;
+if (blocking item failed?) then (yes)
+  :Cap section score;
+else (no)
+  :Weighted score per section;
+endif
+:Compute coverage %;
+
+|#EAF2EC|Recommendations (FR-8)|
+while (more findings?) is (yes)
+  :Select template\nby failure mode;
+  :Interpolate measured,\nrequired, deficit;
+  :Assign priority\n+ effort band;
+endwhile (no)
+if (template missing?) then (yes)
+  :Emit placeholder\n(blocks approval);
+else (no)
+endif
+
+|#F5FAF6|Render (FR-9)|
+:Assemble report sections;
+:Fetch evidence from R2;
+:Generate DOCX in browser;
+:Watermark as DRAFT;
+
+|#EAF2EC|Review \& Sign-Off|
+:Reviewer reads draft;
+if (coverage gaps material?) then (yes)
+  :Return to Synced\nfor re-survey;
+  stop
+else (no)
+endif
+if (recommendations acceptable?) then (no)
+  :Edit text;
+  :Record editor\n+ timestamp;
+else (yes)
+endif
+:Named approver signs off;
+:Lock responses;
+:Increment report version;
+:Export PDF / DOCX;
+stop
+@enduml

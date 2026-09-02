@@ -1,0 +1,51 @@
+@startuml
+!include _style.iuml
+left to right direction
+skinparam packageStyle rectangle
+
+actor "Field Surveyor" as FS
+actor "Head Surveyor" as HS
+actor "User-Group\nParticipant" as UG
+actor "Reviewer /\nAdministrator" as RA
+
+rectangle "Accessibility Audit Tool" {
+  usecase "Create audit\n& site record" as UC1
+  usecase "Answer\nchecklist item" as UC2
+  usecase "Record\nmeasurement" as UC3
+  usecase "Capture photo\nevidence" as UC4
+  usecase "Record\nvoice note" as UC5
+  usecase "View item\nguidance" as UC6
+  usecase "Flag item\nfor re-check" as UC7
+  usecase "Review\ncompleteness" as UC8
+  usecase "Close audit" as UC9
+  usecase "Synchronise\ndata" as UC10
+  usecase "Generate\ndraft report" as UC11
+  usecase "Edit\nrecommendation" as UC12
+  usecase "Approve &\nissue report" as UC13
+  usecase "Manage\nstandards library" as UC14
+  usecase "Manage\nuser roster" as UC15
+}
+
+FS --> UC1
+FS --> UC2
+FS --> UC4
+HS --> UC7
+HS --> UC8
+HS --> UC9
+UG --> UC5
+RA --> UC11
+RA --> UC12
+RA --> UC13
+RA --> UC14
+RA --> UC15
+
+UC2 <.. UC3 : <<extend>>
+UC2 <.. UC4 : <<extend>>
+UC2 <.. UC5 : <<extend>>
+UC2 ..> UC6 : <<include>>
+UC9 ..> UC10 : <<include>>
+UC11 ..> UC10 : <<include>>
+UC13 ..> UC11 : <<include>>
+
+HS --|> FS
+@enduml

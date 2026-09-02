@@ -1,0 +1,143 @@
+@startuml
+!include _style.iuml
+skinparam linetype ortho
+hide circle
+
+class Standard {
+  +id : uuid
+  +name : text
+  +version : text
+  +issued_on : date
+  +is_active : bool
+}
+
+class Requirement {
+  +id : uuid
+  +key : text
+  +citation : text
+  +authority : enum
+  +severity : enum
+}
+
+class Threshold {
+  +id : uuid
+  +value_mm10 : int
+  +operator : enum
+  +rounding : enum
+  +applies_construction : enum
+  +applies_location : enum
+}
+
+class Question {
+  +id : text
+  +prompt : text
+  +answer_type : enum
+  +unit_hint : enum
+  +display_condition : text
+  +guidance : text
+  +diagram_ref : text
+  +evidence_required_on_fail : bool
+}
+
+class Instrument {
+  +id : uuid
+  +sector : enum
+  +version : int
+  +published_at : timestamp
+}
+
+class Site {
+  +id : uuid
+  +name : text
+  +sector : enum
+  +district : text
+  +address : text
+  +lat : numeric
+  +lon : numeric
+  +ownership : enum
+  +gross_floor_area_sqft : int
+  +construction_status : enum
+  --
+  +is_exempt() : bool
+}
+
+class Audit {
+  +id : uuid
+  +code : text
+  +status : enum
+  +started_at : timestamp
+  +closed_at : timestamp
+  +team : jsonb
+  --
+  +score(section) : numeric
+  +coverage() : numeric
+}
+
+class Response {
+  +id : uuid
+  +state : enum
+  +measured_mm : int
+  +slope_rise : int
+  +slope_run : int
+  +note : text
+  +override_reason : text
+  +answered_at : timestamp
+}
+
+class Evidence {
+  +id : uuid
+  +kind : enum
+  +object_key : text
+  +captured_at : timestamp
+  +lat : numeric
+  +lon : numeric
+  +consent_recorded : bool
+}
+
+class Finding {
+  +id : uuid
+  +deficit_mm : int
+  +priority : enum
+  +effort_band : enum
+}
+
+class Recommendation {
+  +id : uuid
+  +generated_text : text
+  +edited_text : text
+  +edited_by : uuid
+  +edited_at : timestamp
+}
+
+class Report {
+  +id : uuid
+  +version : int
+  +is_draft : bool
+  +approved_by : uuid
+  +approved_at : timestamp
+}
+
+class AppUser {
+  +id : uuid
+  +full_name : text
+  +role : enum
+  +is_active : bool
+}
+
+Standard "1" *-- "many" Requirement
+Requirement "1" *-- "1..many" Threshold
+Instrument "1" o-- "many" Question
+Instrument "many" --> "1" Standard : bound to >
+Question "many" --> "0..1" Requirement : evaluated against >
+Site "1" ..> "many" Threshold : selects by\nownership, area,\nconstruction >
+Audit "many" --> "1" Site
+Audit "many" --> "1" Instrument : version-pinned >
+Audit "1" *-- "many" Response
+Response "many" --> "1" Question
+Response "1" o-- "many" Evidence
+Response "1" --> "0..1" Finding : on FAIL\n(BINDING only) >
+Finding "1" -- "1" Recommendation
+Audit "1" o-- "many" Report
+AppUser "1" -- "many" Response : answered by >
+AppUser "1" -- "many" Report : approved by >
+@enduml

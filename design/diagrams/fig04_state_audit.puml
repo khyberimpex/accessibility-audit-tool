@@ -1,0 +1,34 @@
+@startuml
+!include _style.iuml
+
+[*] --> Draft : create audit
+Draft --> InProgress : first response saved
+InProgress --> InProgress : answer / measure / capture
+InProgress --> Closed : close (all items resolved\nor explicitly deferred)
+Closed --> InProgress : reopen (lead only,\nlogged)
+Closed --> Syncing : connectivity available
+Syncing --> Synced : structured data + imagery uploaded
+Syncing --> Closed : interrupted (resumable)
+Synced --> UnderReview : draft report generated
+UnderReview --> UnderReview : edit recommendation
+UnderReview --> Synced : return for re-survey
+UnderReview --> Approved : named sign-off
+Approved --> Issued : report exported
+Issued --> [*]
+
+Approved : responses locked
+Issued : version immutable
+
+note right of Closed
+  Closure requires every item to be
+  PASS, FAIL, NA or UNABLE.
+  Deferred items are listed and
+  must be acknowledged.
+end note
+
+note right of Approved
+  Any later change produces a
+  new report version; the prior
+  version is retained.
+end note
+@enduml

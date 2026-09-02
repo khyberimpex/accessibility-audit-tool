@@ -1,0 +1,55 @@
+@startuml
+!include _style.iuml
+skinparam linetype ortho
+
+node "Android Device\n(2 GB RAM, Android 10+)" {
+  component "Expo / React Native" as RN
+  component "Questionnaire Engine" as QE
+  component "Sync Outbox" as OB
+  database "SQLite" as SQL
+  component "Instrument Cache\n(JSON + diagrams)" as IC
+  RN --> QE
+  QE --> SQL
+  RN --> OB
+  OB --> SQL
+  QE --> IC
+}
+
+node "Browser (Reviewer)" {
+  component "React Console" as CON
+  component "DOCX Generator\n(client-side)" as DOC
+  CON --> DOC
+  note right of DOC
+    Browser print-to-PDF.
+    No render service.
+  end note
+}
+
+cloud "Supabase (free tier)" {
+  database "PostgreSQL\n500 MB" as PG
+  component "Auth + RLS" as AUTH
+  component "PostgREST" as REST
+  REST --> PG
+  AUTH --> PG
+}
+
+cloud "Cloudflare (free tier)" {
+  database "R2 bucket\n10 GB, no egress fee" as R2
+  component "Pages\n(static console)" as PAGES
+}
+
+node "GitHub" {
+  component "Repository" as REPO
+  component "Actions\n(APK build, keep-alive)" as GHA
+  REPO --> GHA
+}
+
+OB --> REST : HTTPS
+OB --> R2 : HTTPS PUT
+CON --> REST
+DOC --> R2 : GET evidence
+PAGES ..> CON : serves
+GHA ..> PAGES : deploy
+GHA ..> PG : weekly keep-alive ping
+GHA ..> RN : builds APK (sideloaded)
+@enduml
