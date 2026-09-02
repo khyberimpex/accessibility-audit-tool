@@ -79,3 +79,14 @@ works one-handed.
 GSD phase loop: Discuss → Plan → Execute → Verify → Ship. One phase per fresh context.
 Specs in `docs/` are the contract; if code and spec disagree, say which is wrong rather
 than silently picking one.
+
+GSD is installed per machine, not committed — its command files bake in an absolute path
+to wherever the repo is checked out, so a vendored copy would be wrong for everyone but
+the machine that generated it. `.claude/` is gitignored. After cloning:
+
+```
+npx @opengsd/gsd-core@latest --local --claude
+```
+
+`--local` keeps it inside this repo. A bare `npx @opengsd/gsd-core@latest` installs to
+`~/.claude` instead and applies its hooks and statusline to every project on the machine.
